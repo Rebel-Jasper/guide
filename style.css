@@ -1,0 +1,19 @@
+body {
+    margin: 7%;
+
+    background-color: #fffefa;
+
+    background-image: 
+        url(images/bg1.png),
+        url(images/bg3.png),
+        url(images/bg2.png);
+    background-repeat: no-repeat;
+    background-position: top, bottom, bottom;
+    background-size: contain, contain, 100% 10000%;
+
+    font-family: "Cormorant Infant", serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
