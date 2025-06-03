@@ -17,3 +17,14 @@ body {
     font-style: normal;
 }
 
+p {
+    font-size: 2dvw;
+}
+
+li {
+        list-style-type: none;
+    }
+        li:before {
+        content: "❀ ";
+        color: #a26960;
+    }
